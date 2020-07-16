@@ -17,7 +17,7 @@ My Blog URL :http://brahma517.blogspot.com/2019/05/reatct-ecomm-website-latest-c
   
    # Screen prints 
   # React Components View
-  ![Capture-1](https://github.com/Brahmaiah-Rayalla/Reatct-Ecomm-Website-1/blob/master/screenprint.jpeg)
+  ![Capture-1](https://github.com/Brahmaiah-Rayalla/EcommSiteReactSciFiStyles/blob/master/screenprint.jpeg)
 
 
   
